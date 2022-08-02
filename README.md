@@ -1,4 +1,4 @@
-### Olá! Meu nome é Lara, sou estudante de Física e aspirante a programadora!
+### Estudante de Física e aspirante a programadora!
 
 <div align="center">
   <a href="https://github.com/laratoledom">
@@ -19,6 +19,6 @@
   <a href="https://instagram.com/laratoledo_m" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laramachado15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/laratoledom/laratoledom/blob/output/github-contribution-grid-snake.svg)
  
 </div>
