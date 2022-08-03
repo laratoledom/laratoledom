@@ -1,4 +1,4 @@
-### Estudante de Física e aspirante a programadora!
+###
 
 <div align="center">
   <a href="https://github.com/laratoledom">
